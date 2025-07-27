@@ -13,6 +13,18 @@
     padding: 0px;
 }
 
+:root{
+--cor01: #E0F8E9;
+--cor02: #B2F0C2;
+--cor03: #7FE89A;
+--cor04: #5ECF73;
+--cor05: #3BA954;
+--cor06: #1E6F37;
+
+--fonte-padrao: Arial, Verdana, Helvetica, sans-serif;
+--fonte-destaque: "Bebas Neue", sans-serif;
+--fonte-android: 'Android', sans-serif;
+}
 
 body{
     background-color: var(--cor01);
