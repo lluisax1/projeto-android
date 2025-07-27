@@ -12,14 +12,16 @@
     margin: 0px;
     padding: 0px;
 }
+ /*cores oficiais*/
+
 
 :root{
---cor01: #c5ebd6;
---cor02: #83e1ad;
---cor03: #3ddc84;
---cor04: #2fa866;
---cor05: #1a5c37;
---cor06: #063d1e;
+--cor01: #FFE6F0;
+--cor02: #FFCCE0;
+--cor03: #FF99C2;
+--cor04: #FF66A3;
+--cor05: #E63987;
+--cor06: #B3005E;
 
 --fonte-padrao: Arial, Verdana, Helvetica, sans-serif;
 --fonte-destaque: "Bebas Neue", sans-serif;
